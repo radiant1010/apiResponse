@@ -9,5 +9,5 @@ import org.springframework.http.ResponseEntity;
 
 @Target(ElementType.TYPE)
 @Retention(RetentionPolicy.RUNTIME)
-public @interface ApiResponseV2Helper { // 인터페이스 명은 정하기 나름
+public @interface ApiResponseV2Helper { // 어노테이션명은 정하기 나름
 }
